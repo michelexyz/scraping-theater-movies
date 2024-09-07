@@ -1,0 +1,2 @@
+-  get also the rating from tmdb since letterboxd api is private
+
